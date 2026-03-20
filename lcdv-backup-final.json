@@ -1,0 +1,1821 @@
+{
+  "docs": [
+    {
+      "id": "mmrrso88y1u",
+      "type": "inv",
+      "number": "INV-00001/25",
+      "date": "2025-04-30",
+      "serial": "111265",
+      "orderId": "PO 402/2024",
+      "payment": "120 Days",
+      "status": "paid",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "reason": "SALE",
+      "words": "Trois cent soixante-trois mille trois cent vingt-huit dirhams et quarante centimes",
+      "vatRate": 20,
+      "subtotal": 311107,
+      "vat": 62221.4,
+      "total": 373328.4,
+      "currency": "DH",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 24,
+          "price": 2250,
+          "total": 54000
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 36,
+          "price": 2915,
+          "total": 104940
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 17,
+          "price": 3810,
+          "total": 64770
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 17,
+          "price": 5141,
+          "total": 87397
+        }
+      ],
+      "sourceId": "mmrrso888aq",
+      "sourceType": "bl",
+      "sourceRef": "BL-00001/25",
+      "ccId": "mmrrso88cc02"
+    },
+    {
+      "id": "mmrrso88s6k",
+      "type": "inv",
+      "number": "INV-00002/25",
+      "date": "2025-05-12",
+      "serial": "105539",
+      "orderId": "PO 402/2024",
+      "payment": "120 Days",
+      "status": "paid",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "reason": "SALE",
+      "words": "Deux cent soixante-sept mille six cent quatre-vingt-trois dirhams et soixante centimes",
+      "vatRate": 20,
+      "subtotal": 231403,
+      "vat": 46280.6,
+      "total": 277683.6,
+      "currency": "DH",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 4,
+          "price": 2250,
+          "total": 9000
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 22,
+          "price": 2915,
+          "total": 64130
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 24,
+          "price": 3810,
+          "total": 91440
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 13,
+          "price": 5141,
+          "total": 66833
+        }
+      ],
+      "sourceId": "mmrrso88vaj",
+      "sourceType": "bl",
+      "sourceRef": "BL-00002/25",
+      "ccId": "mmrrso88cc02"
+    },
+    {
+      "id": "mmrrso88pao",
+      "type": "inv",
+      "number": "INV-00003/25",
+      "date": "2025-06-27",
+      "serial": "119603",
+      "orderId": "PO 402/2024",
+      "payment": "120 Days",
+      "status": "paid",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "reason": "SALE",
+      "words": "Deux cent quarante-huit mille quatre cent dix-huit dirhams",
+      "vatRate": 20,
+      "subtotal": 207015,
+      "vat": 41403,
+      "total": 248418,
+      "currency": "DH",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 22,
+          "price": 2250,
+          "total": 49500
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 7,
+          "price": 2915,
+          "total": 20405
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 9,
+          "price": 3810,
+          "total": 34290
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 20,
+          "price": 5141,
+          "total": 102820
+        }
+      ],
+      "sourceId": "mmrrso885mg",
+      "sourceType": "bl",
+      "sourceRef": "BL-00003/25",
+      "ccId": "mmrrso88cc02"
+    },
+    {
+      "id": "mmrrso88cng",
+      "type": "inv",
+      "number": "INV-00004/25",
+      "sourceRef": "BL-00004/25",
+      "sourceId": "mmrrso88p0q",
+      "sourceType": "bl",
+      "date": "2025-06-24",
+      "serial": "117159",
+      "orderId": "PO 36/2025",
+      "payment": "120 Days",
+      "status": "paid",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "reason": "SALE",
+      "words": "Quatre cent quarante-trois mille deux cent cinquante-cinq dirhams et quatre-vingt-neuf centimes",
+      "notes": "",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "deliveryDate": "",
+      "currency": "",
+      "vatRate": 20,
+      "vat": 73876.002,
+      "subtotal": 369380.01,
+      "total": 443256.012,
+      "totalPkg": 0,
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerName": "Antonio Fernandez",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "vendorCompany": "",
+      "vendorName": "",
+      "vendorAddress": "",
+      "vendorPhone": "",
+      "vendorEmail": "",
+      "vendorSiren": "",
+      "customerName": "",
+      "customerCompany": "",
+      "customerAddress": "",
+      "customerEmail": "",
+      "lines": [
+        {
+          "code": "CTA 01-02",
+          "desc": "CTA-2200-2927x1018x1554 — Systemair Branded",
+          "qty": 2,
+          "price": 52592.82,
+          "total": 105185.64
+        },
+        {
+          "code": "CTA 03",
+          "desc": "CTA-2500-3080x1018x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 52592.82,
+          "total": 52592.82
+        },
+        {
+          "code": "CTA 04",
+          "desc": "CTA-1400-2774x712x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 55659.86,
+          "total": 55659.86
+        },
+        {
+          "code": "CTA 05",
+          "desc": "CTA-2560-3080x1018x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 57424.43,
+          "total": 57424.43
+        },
+        {
+          "code": "CTA 06",
+          "desc": "CTA-1500-2774x712x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 53525.47,
+          "total": 53525.47
+        },
+        {
+          "code": "CTA 07",
+          "desc": "CTA-600-1856x712x842 — Systemair Branded",
+          "qty": 1,
+          "price": 44991.79,
+          "total": 44991.79
+        }
+      ],
+      "ccId": "mmrrso880we"
+    },
+    {
+      "id": "mmrrso888aq",
+      "type": "bl",
+      "number": "BL-00001/25",
+      "date": "2025-04-30",
+      "orderId": "PO 402/2024",
+      "payment": "120 Days",
+      "status": "invoiced",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "totalPkg": 94,
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 24,
+          "qtyDelivered": 24,
+          "qtyInvoiced": 24,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 36,
+          "qtyDelivered": 36,
+          "qtyInvoiced": 36,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 17,
+          "qtyDelivered": 17,
+          "qtyInvoiced": 17,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 17,
+          "qtyDelivered": 17,
+          "qtyInvoiced": 17,
+          "invoiceId": "mmrrso88pao"
+        }
+      ],
+      "ccId": "mmrrso88cc02",
+      "sourceId": "mmrrso88cc02",
+      "sourceType": "cc",
+      "sourceRef": "CC-00002/25"
+    },
+    {
+      "id": "mmrrso88vaj",
+      "type": "bl",
+      "number": "BL-00002/25",
+      "date": "2025-05-12",
+      "orderId": "PO 402/2024",
+      "payment": "120 Days",
+      "status": "invoiced",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "totalPkg": 63,
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 4,
+          "qtyDelivered": 4,
+          "qtyInvoiced": 4,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 22,
+          "qtyDelivered": 22,
+          "qtyInvoiced": 22,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 24,
+          "qtyDelivered": 24,
+          "qtyInvoiced": 24,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 13,
+          "qtyDelivered": 13,
+          "qtyInvoiced": 13,
+          "invoiceId": "mmrrso88pao"
+        }
+      ],
+      "ccId": "mmrrso88cc02",
+      "sourceId": "mmrrso88cc02",
+      "sourceType": "cc",
+      "sourceRef": "CC-00002/25"
+    },
+    {
+      "id": "mmrrso885mg",
+      "type": "bl",
+      "number": "BL-00003/25",
+      "date": "2025-06-16",
+      "orderId": "PO 402/2024",
+      "payment": "120 Days",
+      "status": "invoiced",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "totalPkg": 58,
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 22,
+          "qtyDelivered": 22,
+          "qtyInvoiced": 22,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 7,
+          "qtyDelivered": 7,
+          "qtyInvoiced": 7,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 9,
+          "qtyDelivered": 9,
+          "qtyInvoiced": 9,
+          "invoiceId": "mmrrso88pao"
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 20,
+          "qtyDelivered": 20,
+          "qtyInvoiced": 20,
+          "invoiceId": "mmrrso88pao"
+        }
+      ],
+      "ccId": "mmrrso88cc02",
+      "sourceId": "mmrrso88cc02",
+      "sourceType": "cc",
+      "sourceRef": "CC-00002/25"
+    },
+    {
+      "id": "mmrrso88p0q",
+      "type": "bl",
+      "number": "BL-00004/25",
+      "date": "2025-05-23",
+      "orderId": "PO 36/2025",
+      "payment": "120 Days",
+      "status": "invoiced",
+      "incoterms": "DAP",
+      "insurance": "NOT INCLUDED",
+      "sellerId": "mmrrso88umq",
+      "buyerId": "mmrrso886g7",
+      "sellerName": "Juan Perez",
+      "sellerEmail": "juan.perez@cap-devilla.com",
+      "sellerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "buyerCompany": "Systemair Maroc SARLAU",
+      "buyerAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "buyerIce": "115780000056",
+      "buyerIf": "15260632",
+      "buyerPhone": "212 5 23 32 07 90",
+      "buyerWeb": "www.systemair.ma",
+      "totalPkg": 7,
+      "lines": [
+        {
+          "code": "CTA 01-02",
+          "desc": "CTA-2200-2927x1018x1554 — Systemair Branded",
+          "qty": 2,
+          "qtyDelivered": 2,
+          "qtyInvoiced": 2,
+          "invoiceId": "mmrrso88cng"
+        },
+        {
+          "code": "CTA 03",
+          "desc": "CTA-2500-3080x1018x1554 — Systemair Branded",
+          "qty": 1,
+          "qtyDelivered": 1,
+          "qtyInvoiced": 1,
+          "invoiceId": "mmrrso88cng"
+        },
+        {
+          "code": "CTA 04",
+          "desc": "CTA-1400-2774x712x1554 — Systemair Branded",
+          "qty": 1,
+          "qtyDelivered": 1,
+          "qtyInvoiced": 1,
+          "invoiceId": "mmrrso88cng"
+        },
+        {
+          "code": "CTA 05",
+          "desc": "CTA-2560-3080x1018x1554 — Systemair Branded",
+          "qty": 1,
+          "qtyDelivered": 1,
+          "qtyInvoiced": 1,
+          "invoiceId": "mmrrso88cng"
+        },
+        {
+          "code": "CTA 06",
+          "desc": "CTA-1500-2774x712x1554 — Systemair Branded",
+          "qty": 1,
+          "qtyDelivered": 1,
+          "qtyInvoiced": 1,
+          "invoiceId": "mmrrso88cng"
+        },
+        {
+          "code": "CTA 07",
+          "desc": "CTA-600-1856x712x842 — Systemair Branded",
+          "qty": 1,
+          "qtyDelivered": 1,
+          "qtyInvoiced": 1,
+          "invoiceId": "mmrrso88cng"
+        }
+      ],
+      "ccId": "mmrrso880we",
+      "sourceId": "mmrrso880we",
+      "sourceType": "cc",
+      "sourceRef": "CC-00001/25"
+    },
+    {
+      "id": "mmrrso88iaq",
+      "type": "bc",
+      "number": "BC-00001/25",
+      "date": "2025-01-13",
+      "status": "received",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "deliveryDate": "2025-02-27",
+      "currency": "MAD",
+      "vatRate": 20,
+      "vat": 122416.18,
+      "subtotal": 612080.92,
+      "total": 734497.1,
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq",
+      "vendorName": "Sanhaji Mohammed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "vendorPhone": "",
+      "vendorEmail": "contact@cap-devilla.com",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "notes": "Payment shall be 90 days upon receipt of the items above.",
+      "lines": [
+        {
+          "code": "KPB1212-1.5KW",
+          "desc": "KPB 12/12 1.5kW 1100rpm with proximity switch",
+          "qty": 2,
+          "price": 4196.28,
+          "total": 8392.56
+        },
+        {
+          "code": "KVD1010-M4",
+          "desc": "KVD FILTER 10/10 M4 0.59kW with proximity switch",
+          "qty": 4,
+          "price": 2396.41,
+          "total": 9585.62
+        },
+        {
+          "code": "KVB-F1212-1.1KW",
+          "desc": "KVB-F 12/12 1.1kW 1200rpm with proximity switch",
+          "qty": 11,
+          "price": 7137.79,
+          "total": 78515.69
+        },
+        {
+          "code": "KVB-F1515-3KW",
+          "desc": "KVB-F 15/15 3kW 1000rpm with proximity switch",
+          "qty": 4,
+          "price": 9822.18,
+          "total": 39288.7
+        },
+        {
+          "code": "KVB-F1818-5.5KW",
+          "desc": "KVB-F 18/18 5.5kW 800rpm with proximity switch",
+          "qty": 1,
+          "price": 13144.23,
+          "total": 13144.23
+        },
+        {
+          "code": "KVB-F1212-2.2KW",
+          "desc": "KVB-F 12/12 2.2kW 1100rpm with proximity switch",
+          "qty": 1,
+          "price": 7796.03,
+          "total": 7796.03
+        },
+        {
+          "code": "KVB-F1212-2.2KW-1050",
+          "desc": "KVB-F 12/12 2.2kW 1050rpm with proximity switch",
+          "qty": 14,
+          "price": 7796.03,
+          "total": 109144.42
+        },
+        {
+          "code": "KVB-F1212-1.5KW",
+          "desc": "KVB-F 12/12 1.5kW 1000rpm with proximity switch",
+          "qty": 2,
+          "price": 7333.21,
+          "total": 14666.41
+        },
+        {
+          "code": "KVB-F1212-1.1KW-950",
+          "desc": "KVB-F 12/12 1.1kW 950rpm with proximity switch",
+          "qty": 2,
+          "price": 7137.79,
+          "total": 14275.58
+        },
+        {
+          "code": "KVB-F1212-1.1KW-900",
+          "desc": "KVB-F 12/12 1.1kW 900rpm with proximity switch",
+          "qty": 4,
+          "price": 7137.79,
+          "total": 28551.16
+        },
+        {
+          "code": "KVB-F1818-4KW",
+          "desc": "KVB-F 18/18 4kW 750rpm with proximity switch",
+          "qty": 1,
+          "price": 11251.79,
+          "total": 11251.79
+        },
+        {
+          "code": "BOX-BV1515-4KW",
+          "desc": "BOX BV 15/15 4kW 1050rpm with proximity switch",
+          "qty": 1,
+          "price": 7004.09,
+          "total": 7004.09
+        },
+        {
+          "code": "DFA560-T4",
+          "desc": "DFA 560 T4/T8 3/0.55kW F400 with proximity switch",
+          "qty": 20,
+          "price": 9163.94,
+          "total": 183278.7
+        },
+        {
+          "code": "KPB1010-1.5KW",
+          "desc": "KPB 10/10 1.5kW 1550rpm with proximity switch",
+          "qty": 20,
+          "price": 3640.89,
+          "total": 72817.8
+        },
+        {
+          "code": "KVB-F1212-2V",
+          "desc": "KVB-F 12/12 2V 1.5/0.25kW 1100rpm with proximity switch",
+          "qty": 1,
+          "price": 7765.18,
+          "total": 7765.18
+        },
+        {
+          "code": "KPB99-1.1KW",
+          "desc": "KPB 9/9 1.1kW 1700rpm with proximity switch",
+          "qty": 2,
+          "price": 3301.49,
+          "total": 6602.97
+        }
+      ]
+    },
+    {
+      "id": "mmrrso883xj",
+      "type": "bc",
+      "number": "BC-00002/25",
+      "date": "2025-01-13",
+      "status": "received",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "deliveryDate": "2025-02-27",
+      "currency": "MAD",
+      "vatRate": 20,
+      "vat": 64240,
+      "subtotal": 321200,
+      "total": 385440,
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq",
+      "vendorName": "Sanhaji Mohammed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "vendorPhone": "",
+      "vendorEmail": "contact@cap-devilla.com",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "notes": "Payment shall be 90 days upon receipt of the items above.",
+      "lines": [
+        {
+          "code": "CTA 01-02",
+          "desc": "CTA-2200-2927x1018x1554",
+          "qty": 2,
+          "price": 51750.54,
+          "total": 103501.08
+        },
+        {
+          "code": "CTA 03",
+          "desc": "CTA-2500-3080x1018x1554",
+          "qty": 1,
+          "price": 54768.46,
+          "total": 54768.46
+        },
+        {
+          "code": "CTA 04",
+          "desc": "CTA-1400-2774x712x1554",
+          "qty": 1,
+          "price": 44706.79,
+          "total": 44706.79
+        },
+        {
+          "code": "CTA 05",
+          "desc": "CTA-2560-3080x1018x1554",
+          "qty": 1,
+          "price": 54674.67,
+          "total": 54674.67
+        },
+        {
+          "code": "CTA 06",
+          "desc": "CTA-1500-2774x712x1554",
+          "qty": 1,
+          "price": 44751.63,
+          "total": 44751.63
+        },
+        {
+          "code": "CTA 07",
+          "desc": "CTA-600-1856x712x842",
+          "qty": 1,
+          "price": 18797.37,
+          "total": 18797.37
+        }
+      ],
+      "ccId": "mmrrso880we",
+      "sourceId": "mmrrso880we",
+      "sourceRef": "CC-00001/25",
+      "sourceType": "cc"
+    },
+    {
+      "id": "mmrrso88dj1",
+      "type": "bc",
+      "number": "BC-00003/25",
+      "date": "2025-02-05",
+      "status": "confirmed",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "deliveryDate": "2025-02-20",
+      "currency": "EUR",
+      "vatRate": 0,
+      "vat": 0,
+      "subtotal": 75474.11,
+      "total": 75474.11,
+      "sellerId": "mmrrso88x9l",
+      "buyerId": "mmrrso88umq",
+      "vendorName": "Yassine",
+      "vendorCompany": "ARCOM",
+      "vendorAddress": "ZAC La Loyère 71530 FRAGNES-LA LOYERE",
+      "vendorPhone": "03 85 42 77 88",
+      "vendorEmail": "juan.perez@cap-devilla.com",
+      "vendorSiren": "488795345",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "notes": "Payment shall be 90 days upon receipt of the items above.",
+      "lines": [
+        {
+          "code": "ACD-2DH-6A",
+          "desc": "Coffret de relayage ACD 2DH 6A",
+          "qty": 85,
+          "price": 370.22,
+          "total": 31468.7
+        },
+        {
+          "code": "ACD-2DH-25.4A",
+          "desc": "Coffret de relayage ACD 2DH 25,4A",
+          "qty": 6,
+          "price": 613.6,
+          "total": 3681.6
+        },
+        {
+          "code": "ACD-2DH-43.3A",
+          "desc": "Coffret de relayage ACD 2DH 43,3A",
+          "qty": 12,
+          "price": 663.2,
+          "total": 7958.4
+        },
+        {
+          "code": "ACD-1V-6A",
+          "desc": "Coffret de relayage ACD 1V 6A",
+          "qty": 67,
+          "price": 201.88,
+          "total": 13525.96
+        },
+        {
+          "code": "ACD-1V-16.7A",
+          "desc": "Coffret de relayage ACD 1V 16,7A",
+          "qty": 32,
+          "price": 221.7,
+          "total": 7094.4
+        },
+        {
+          "code": "ACD-1V-25.4A",
+          "desc": "Coffret de relayage ACD 1V 25,4A",
+          "qty": 6,
+          "price": 292.64,
+          "total": 1755.84
+        },
+        {
+          "code": "ACD-2DH-16.7A",
+          "desc": "Coffret de relayage ACD 2DH 16,7A",
+          "qty": 14,
+          "price": 403.59,
+          "total": 5650.26
+        },
+        {
+          "code": "ACD-2DH-63.3A",
+          "desc": "Coffret de relayage ACD 2DH 63,3A",
+          "qty": 5,
+          "price": 867.79,
+          "total": 4338.95
+        }
+      ]
+    },
+    {
+      "id": "bc4_25_1773944338",
+      "type": "bc",
+      "number": "BC-00004/25",
+      "date": "2024-12-11",
+      "status": "received",
+      "shippingTerms": "Ex-Works",
+      "shippingMethod": "Land",
+      "deliveryDate": "",
+      "currency": "MAD",
+      "vatRate": 20,
+      "subtotal": 624585.0,
+      "vat": 124917.0,
+      "total": 749502.0,
+      "ccId": "mmrrso88cc02",
+      "sourceId": "mmrrso88cc02",
+      "sourceRef": "CC-00002/25",
+      "sourceType": "cc",
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq",
+      "vendorName": "Sanhaji Mohamed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N°12 Casablanca - Morocco",
+      "vendorPhone": "0661-877301",
+      "vendorEmail": "",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "notes": "PO 2131/2024 — Payment 30 days upon receipt",
+      "lines": [
+        {
+          "code": "BOX FAN 7-7 III 150W-4P",
+          "lcdvCode": "KVD 7/7 M4",
+          "desc": "BOX FAN 7-7 III 150W-4P",
+          "qty": 50,
+          "price": 1875.0,
+          "total": 93750.0
+        },
+        {
+          "code": "BOX FAN 9-7 III 375W-4P",
+          "lcdvCode": "KVD 10/10 M4",
+          "desc": "BOX FAN 9-7 III 375W-4P",
+          "qty": 65,
+          "price": 2429.0,
+          "total": 157885.0
+        },
+        {
+          "code": "BOX FAN 10-10 III 550W-4P",
+          "lcdvCode": "KVD 12/12 E6",
+          "desc": "BOX FAN 10-10 III 550W-4P",
+          "qty": 50,
+          "price": 3175.0,
+          "total": 158750.0
+        },
+        {
+          "code": "BOX FAN DD 12-12 III 750W-6P",
+          "lcdvCode": "KVD 12/12 D6",
+          "desc": "BOX FAN DD 12-12 III 750W-6P",
+          "qty": 50,
+          "price": 4284.0,
+          "total": 214200.0
+        }
+      ]
+    },
+    {
+      "id": "bc1_26_1773945443",
+      "type": "bc",
+      "number": "BC-00001/26",
+      "date": "2026-02-20",
+      "status": "received",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "currency": "MAD",
+      "vatRate": 20,
+      "subtotal": 228753.56,
+      "vat": 45750.71,
+      "total": 274504.27,
+      "ccId": "mmwah2hrl61",
+      "sourceId": "mmwah2hrl61",
+      "sourceRef": "CC-00003/26",
+      "sourceType": "cc",
+      "notes": "FA260031 — Ref ext: STOCK 2 — Suivi: BELEFKIH",
+      "lines": [
+        {
+          "code": "PFBF1",
+          "desc": "BOX DD 7-7 III 150W-4P",
+          "qty": 72,
+          "price": 1837.5,
+          "total": 132300.0,
+          "lcdvCode": "KVD 7/7 M4"
+        },
+        {
+          "code": "PFBF2",
+          "desc": "BOX DD 9-7 III 375W-4P",
+          "qty": 30,
+          "price": 2380.42,
+          "total": 71412.6,
+          "lcdvCode": "KVD 10/10 M4"
+        },
+        {
+          "code": "PFBF4",
+          "desc": "BOX DD 10-10 III 550W-4P",
+          "qty": 4,
+          "price": 3111.5,
+          "total": 12446.0,
+          "lcdvCode": "KVD 12/12 E6"
+        },
+        {
+          "code": "PFBF5",
+          "desc": "BOX DD 12-12 III 750W-6P",
+          "qty": 3,
+          "price": 4198.32,
+          "total": 12594.96,
+          "lcdvCode": "KVD 12/12 D6"
+        }
+      ],
+      "vendorName": "Sanhaji Mohammed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "vendorPhone": "",
+      "vendorEmail": "",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq"
+    },
+    {
+      "id": "bc2_26_1773945444",
+      "type": "bc",
+      "number": "BC-00002/26",
+      "date": "2026-03-10",
+      "status": "received",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "currency": "MAD",
+      "vatRate": 20,
+      "subtotal": 228652.8,
+      "vat": 45730.56,
+      "total": 274383.36,
+      "ccId": "mmwah2hrl61",
+      "sourceId": "mmwah2hrl61",
+      "sourceRef": "CC-00003/26",
+      "sourceType": "cc",
+      "notes": "BL25053 TERMOFAN — 10/03/2026",
+      "lines": [
+        {
+          "code": "BOX DD 9-9 III 450W-4P",
+          "desc": "BOX DD 9-9 III 450W-4P",
+          "qty": 45,
+          "price": 2852.0,
+          "total": 128340.0,
+          "lcdvCode": "KVD 10/10 M6"
+        },
+        {
+          "code": "BOX DD 10-10 III 550W-4P",
+          "desc": "BOX DD 10-10 III 550W-4P",
+          "qty": 12,
+          "price": 3111.5,
+          "total": 37338.0,
+          "lcdvCode": "KVD 12/12 E6"
+        },
+        {
+          "code": "BOX DD 12-12 III 750W-6P",
+          "desc": "BOX DD 12-12 III 750W-6P",
+          "qty": 15,
+          "price": 4198.32,
+          "total": 62974.8,
+          "lcdvCode": "KVD 12/12 D6"
+        }
+      ],
+      "vendorName": "Sanhaji Mohammed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "vendorPhone": "",
+      "vendorEmail": "",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq"
+    },
+    {
+      "id": "bc3_26_1773945445",
+      "type": "bc",
+      "number": "BC-00003/26",
+      "date": "2026-03-11",
+      "status": "received",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "currency": "MAD",
+      "vatRate": 20,
+      "subtotal": 172508.0,
+      "vat": 34501.6,
+      "total": 207009.6,
+      "ccId": "mmwah2hrl61",
+      "sourceId": "mmwah2hrl61",
+      "sourceRef": "CC-00003/26",
+      "sourceType": "cc",
+      "notes": "FA260054 — BL26055 TERMOFAN — Commercial: KENZA BELFKIH",
+      "lines": [
+        {
+          "code": "BOX FAN 7-7 III 150W-4P",
+          "desc": "BOX FAN 7-7 III 150W-4P",
+          "qty": 22,
+          "price": 1875.0,
+          "total": 41250.0,
+          "lcdvCode": "KVD 7/7 M4"
+        },
+        {
+          "code": "BOX FAN 9-7 III 375W-4P",
+          "desc": "BOX FAN 9-7 III 375W-4P",
+          "qty": 7,
+          "price": 2429.0,
+          "total": 17003.0,
+          "lcdvCode": "KVD 10/10 M4"
+        },
+        {
+          "code": "BOX FAN 10-10 III 550W-4P",
+          "desc": "BOX FAN 10-10 III 550W-4P",
+          "qty": 9,
+          "price": 3175.0,
+          "total": 28575.0,
+          "lcdvCode": "KVD 12/12 E6"
+        },
+        {
+          "code": "BOX FAN DD 12-12 III 750W-6P",
+          "desc": "BOX FAN DD 12-12 III 750W-6P",
+          "qty": 20,
+          "price": 4284.0,
+          "total": 85680.0,
+          "lcdvCode": "KVD 12/12 D6"
+        }
+      ],
+      "vendorName": "Sanhaji Mohammed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "vendorPhone": "",
+      "vendorEmail": "",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq"
+    },
+    {
+      "id": "bc4_26_1773945446",
+      "type": "bc",
+      "number": "BC-00004/26",
+      "date": "2026-03-11",
+      "status": "received",
+      "shippingTerms": "Exworks",
+      "shippingMethod": "Land",
+      "currency": "MAD",
+      "vatRate": 20,
+      "subtotal": 164835.0,
+      "vat": 32967.0,
+      "total": 197802.0,
+      "ccId": "mmwah2hse93",
+      "sourceId": "mmwah2hse93",
+      "sourceRef": "CC-00005/26",
+      "sourceType": "cc",
+      "notes": "FA260053 — BL26054 — Ref: P065/25 — Commercial: Oumaima",
+      "lines": [
+        {
+          "code": "MPACR1",
+          "desc": "PAC 70KW",
+          "qty": 1,
+          "price": 164835.0,
+          "total": 164835.0,
+          "lcdvCode": "SCROLL AIR COOLED H.P 80HW-V45"
+        }
+      ],
+      "vendorName": "Sanhaji Mohammed",
+      "vendorCompany": "TERMOFAN",
+      "vendorAddress": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "vendorPhone": "",
+      "vendorEmail": "",
+      "vendorSiren": "",
+      "customerName": "Juan Perez",
+      "customerCompany": "LCDV",
+      "customerAddress": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "customerEmail": "juan.perez@cap-devilla.com",
+      "sellerId": "mmrrso88he4",
+      "buyerId": "mmrrso88umq"
+    }
+  ],
+  "ccs": [
+    {
+      "id": "mmrrso880we",
+      "number": "CC-00001/25",
+      "ref": "PO 36/2025",
+      "date": "2025-05-20",
+      "clientId": "mmrrso886g7",
+      "clientName": "Antonio Fernandez",
+      "clientCompany": "Systemair Maroc SARLAU",
+      "clientAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "clientIce": "115780000056",
+      "clientIf": "15260632",
+      "clientPhone": "212 5 23 32 07 90",
+      "clientEmail": "",
+      "delai": "2025-07-25",
+      "payment": "120 jours",
+      "status": "done",
+      "currency": "DH",
+      "totalCC": 369380.01,
+      "lines": [
+        {
+          "code": "CTA 01-02",
+          "desc": "CTA-2200-2927x1018x1554 — Systemair Branded",
+          "qty": 2,
+          "price": 52592.82,
+          "total": 105185.63,
+          "remaining": 0,
+          "deliv": "2025-05-23",
+          "qtyInvoiced": 2
+        },
+        {
+          "code": "CTA 03",
+          "desc": "CTA-2500-3080x1018x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 52592.82,
+          "total": 52592.82,
+          "remaining": 0,
+          "deliv": "2025-05-23",
+          "qtyInvoiced": 1
+        },
+        {
+          "code": "CTA 04",
+          "desc": "CTA-1400-2774x712x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 55659.86,
+          "total": 55659.86,
+          "remaining": 0,
+          "deliv": "2025-05-23",
+          "qtyInvoiced": 1
+        },
+        {
+          "code": "CTA 05",
+          "desc": "CTA-2560-3080x1018x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 57424.43,
+          "total": 57424.43,
+          "remaining": 0,
+          "deliv": "2025-05-23",
+          "qtyInvoiced": 1
+        },
+        {
+          "code": "CTA 06",
+          "desc": "CTA-1500-2774x712x1554 — Systemair Branded",
+          "qty": 1,
+          "price": 53525.47,
+          "total": 53525.47,
+          "remaining": 0,
+          "deliv": "2025-05-23",
+          "qtyInvoiced": 1
+        },
+        {
+          "code": "CTA 07",
+          "desc": "CTA-600-1856x712x842 — Systemair Branded",
+          "qty": 1,
+          "price": 44991.79,
+          "total": 44991.79,
+          "remaining": 0,
+          "deliv": "2025-05-23",
+          "qtyInvoiced": 1
+        }
+      ]
+    },
+    {
+      "id": "mmrrso88cc02",
+      "number": "CC-00002/25",
+      "ref": "PO 402/2024",
+      "date": "2025-01-01",
+      "clientId": "mmrrso886g7",
+      "clientName": "Antonio Fernandez",
+      "clientCompany": "Systemair Maroc SARLAU",
+      "clientAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "clientIce": "115780000056",
+      "clientIf": "15260632",
+      "clientPhone": "212 5 23 32 07 90",
+      "clientEmail": "",
+      "payment": "120 jours",
+      "currency": "DH",
+      "incoterms": "DAP",
+      "status": "done",
+      "totalCC": 749525,
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 50,
+          "price": 2250,
+          "total": 112500,
+          "remaining": 0,
+          "deliv": "2025-06-16",
+          "qtyInvoiced": 50
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW — Systemair Branded",
+          "qty": 65,
+          "price": 2915,
+          "total": 189475,
+          "remaining": 0,
+          "deliv": "2025-06-16",
+          "qtyInvoiced": 65
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6 — Systemair Branded",
+          "qty": 50,
+          "price": 3810,
+          "total": 190500,
+          "remaining": 0,
+          "deliv": "2025-06-16",
+          "qtyInvoiced": 50
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,1KW — Systemair Branded",
+          "qty": 50,
+          "price": 5141,
+          "total": 257050,
+          "remaining": 0,
+          "deliv": "2025-06-16",
+          "qtyInvoiced": 50
+        }
+      ]
+    },
+    {
+      "id": "mmwah2hrl61",
+      "number": "CC-00003/26",
+      "ref": "192/2025",
+      "date": "2025-07-11",
+      "clientId": "mmrrso886g7",
+      "clientName": "Antonio Fernandez",
+      "clientCompany": "Systemair Maroc SARLAU",
+      "clientAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "clientIce": "115780000056",
+      "clientIf": "15260632",
+      "clientPhone": "212 5 23 32 07 90",
+      "clientEmail": "",
+      "delai": "30 Jours",
+      "payment": "120 jours net",
+      "status": "open",
+      "totalCC": 732760,
+      "currency": "DH",
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW",
+          "qty": 85,
+          "price": 2250,
+          "total": 191250,
+          "remaining": 85,
+          "deliv": ""
+        },
+        {
+          "code": "KVD 10/10 M4",
+          "desc": "KVD 10/10 M4 0,59KW",
+          "qty": 109,
+          "price": 2915,
+          "total": 317735,
+          "remaining": 109,
+          "deliv": ""
+        },
+        {
+          "code": "KVD 12/12 E6",
+          "desc": "KVD 12/12 E6",
+          "qty": 25,
+          "price": 3810,
+          "total": 95250,
+          "remaining": 25,
+          "deliv": ""
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,3KW",
+          "qty": 25,
+          "price": 5141,
+          "total": 128525,
+          "remaining": 25,
+          "deliv": ""
+        }
+      ],
+      "type": "cc"
+    },
+    {
+      "id": "mmwah2hs330",
+      "number": "CC-00004/26",
+      "ref": "3721859",
+      "date": "2025-12-04",
+      "clientId": "mmrrso886g7",
+      "clientName": "Antonio Fernandez",
+      "clientCompany": "Systemair Maroc SARLAU",
+      "clientAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "clientIce": "115780000056",
+      "clientIf": "15260632",
+      "clientPhone": "212 5 23 32 07 90",
+      "clientEmail": "",
+      "delai": "",
+      "payment": "120 jours nets",
+      "status": "open",
+      "totalCC": 95735,
+      "currency": "DH",
+      "lines": [
+        {
+          "code": "527809",
+          "desc": "KVD-12-12-D6-1.3 KW",
+          "qty": 6,
+          "price": 3810,
+          "total": 22860,
+          "remaining": 6,
+          "deliv": ""
+        },
+        {
+          "code": "527808",
+          "desc": "KVD-10-10-M4-0.59 KW",
+          "qty": 25,
+          "price": 2915,
+          "total": 72875,
+          "remaining": 25,
+          "deliv": ""
+        }
+      ],
+      "type": "cc"
+    },
+    {
+      "id": "mmwah2hse93",
+      "number": "CC-00005/26",
+      "ref": "3763135",
+      "date": "2026-02-24",
+      "clientId": "mmrrso886g7",
+      "clientName": "Antonio Fernandez",
+      "clientCompany": "Systemair Maroc SARLAU",
+      "clientAddress": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "clientIce": "115780000056",
+      "clientIf": "15260632",
+      "clientPhone": "212 5 23 32 07 90",
+      "clientEmail": "",
+      "delai": "30 Jours",
+      "payment": "120 jours nets",
+      "status": "open",
+      "totalCC": 254631,
+      "currency": "DH",
+      "lines": [
+        {
+          "code": "422535",
+          "desc": "SCROLL AIR COOLED H.P 80HW-V45",
+          "qty": 1,
+          "price": 254631,
+          "total": 254631,
+          "remaining": 1,
+          "deliv": ""
+        }
+      ],
+      "type": "cc"
+    },
+    {
+      "id": "cc6_1773885943",
+      "number": "CC-00006/26",
+      "ref": "En attente BC complémentaire",
+      "date": "2026-03-19",
+      "clientId": "mmrrso886g7",
+      "clientCompany": "Systemair Maroc SARLAU",
+      "clientName": "Antonio Fernandez",
+      "status": "open",
+      "notes": "Régularisation excédents CC-00003/26 — BC complémentaire attendu du client",
+      "lines": [
+        {
+          "code": "KVD 7/7 M4",
+          "desc": "KVD 7/7 M4 0,13KW — Systemair Branded",
+          "qty": 9,
+          "price": 2250,
+          "total": 20250,
+          "remaining": 9
+        },
+        {
+          "code": "KVD 12/12 D6",
+          "desc": "KVD 12/12 D6 1,3KW — Systemair Branded",
+          "qty": 13,
+          "price": 5141,
+          "total": 66833,
+          "remaining": 13
+        }
+      ],
+      "totalCC": 87083,
+      "currency": "DH",
+      "type": "cc"
+    }
+  ],
+  "clients": [
+    {
+      "id": "mmrrso88umq",
+      "name": "Juan Perez",
+      "company": "LCDV",
+      "email": "juan.perez@cap-devilla.com",
+      "phone": "",
+      "address": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206\nDerb Omar - 20000 Casablanca - Morocco",
+      "ice": "003642309000040",
+      "if": "66221862",
+      "rc": "662681",
+      "siren": "32107176",
+      "web": ""
+    },
+    {
+      "id": "mmrrso886g7",
+      "name": "Antonio Fernandez",
+      "company": "Systemair Maroc SARLAU",
+      "email": "",
+      "phone": "212 5 23 32 07 90",
+      "address": "Lot 163 Zone Idustrielle Sud-Ouest\n20880 Mohammedia - Morocco",
+      "ice": "115780000056",
+      "if": "15260632",
+      "rc": "",
+      "siren": "",
+      "web": "www.systemair.ma"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "mmrrso88x9l",
+      "name": "Yassine",
+      "company": "ARCOM",
+      "email": "arcom@groupe-arcom.com",
+      "phone": "03 85 42 77 88",
+      "address": "ZAC La Loyère 71530 FRAGNES-LA LOYERE",
+      "ice": "",
+      "if": "",
+      "rc": "",
+      "siren": "488795345",
+      "web": ""
+    },
+    {
+      "id": "mmrrso88he4",
+      "name": "Sanhaji Mohammed",
+      "company": "TERMOFAN",
+      "email": "antonio.fernandez@cap-devilla.com",
+      "phone": "",
+      "address": "71 BD ANFA 2EME ETAGE N12 Casablanca - Morocco",
+      "ice": "",
+      "if": "",
+      "rc": "",
+      "siren": "",
+      "web": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "mmrrso8800a",
+      "code": "KVD 7/7 M4",
+      "name": "KVD 7/7 M4 0,13KW",
+      "desc": "",
+      "price": 2250,
+      "brand": "Systemair Branded",
+      "cat": "Ventilation",
+      "supplierCode": "BOX FAN 7-7 III 150W-4P",
+      "buyPrice": 1875.0,
+      "supplierCodes": [
+        "BOX FAN 7-7 III 150W-4P",
+        "BOX DD 7-7 III 150W-4P",
+        "PFBF1",
+        "KVD 7/7 M4 0,13KW",
+        "KVD 7/7 M4 0.13KW"
+      ]
+    },
+    {
+      "id": "mmrrso884wu",
+      "code": "KVD 10/10 M4",
+      "name": "KVD 10/10 M4 0,59KW",
+      "desc": "",
+      "price": 2915,
+      "brand": "Systemair Branded",
+      "cat": "Ventilation",
+      "supplierCode": "BOX FAN 9-7 III 375W-4P",
+      "buyPrice": 2429.0,
+      "supplierCodes": [
+        "BOX FAN 9-7 III 375W-4P",
+        "BOX DD 9-7 III 375W-4P",
+        "PFBF2",
+        "KVD 10/10 M4 0,59KW",
+        "KVD 10/10 M4 0.59KW",
+        "527808",
+        "KVD-10-10-M4-0.59 KW"
+      ]
+    },
+    {
+      "id": "mmrrso8847w",
+      "code": "KVD 12/12 E6",
+      "name": "KVD 12/12 E6",
+      "desc": "",
+      "price": 3810,
+      "brand": "Systemair Branded",
+      "cat": "Ventilation",
+      "supplierCode": "BOX FAN 10-10 III 550W-4P",
+      "buyPrice": 3175.0,
+      "supplierCodes": [
+        "BOX FAN 10-10 III 550W-4P",
+        "BOX DD 10-10 III 550W-4P",
+        "PFBF4",
+        "KVD 12/12 E6"
+      ]
+    },
+    {
+      "id": "mmrrso888f1",
+      "code": "KVD 12/12 D6",
+      "name": "KVD 12/12 D6 1,1KW",
+      "desc": "",
+      "price": 5141,
+      "brand": "Systemair Branded",
+      "cat": "Ventilation",
+      "supplierCode": "BOX FAN DD 12-12 III 750W-6P",
+      "buyPrice": 4284.0,
+      "supplierCodes": [
+        "BOX FAN DD 12-12 III 750W-6P",
+        "BOX DD 12-12 III 750W-6P",
+        "PFBF5",
+        "KVD 12/12 D6 1,3KW",
+        "KVD 12/12 D6 1.3KW",
+        "527809",
+        "KVD-12-12-D6-1.3 KW",
+        "KDV 12/12 D6 1,3KW"
+      ]
+    },
+    {
+      "id": "mmrrso88d8r",
+      "code": "CTA 01-02",
+      "name": "CTA 01-02",
+      "desc": "CTA-2200-2927x1018x1554",
+      "price": 52592.82,
+      "brand": "Systemair Branded",
+      "cat": "CTA",
+      "supplierCode": "CTA 01-02",
+      "buyPrice": 51750.54
+    },
+    {
+      "id": "mmrrso88ezn",
+      "code": "CTA 03",
+      "name": "CTA 03",
+      "desc": "CTA-2500-3080x1018x1554",
+      "price": 52592.82,
+      "brand": "Systemair Branded",
+      "cat": "CTA",
+      "supplierCode": "CTA 03",
+      "buyPrice": 54768.46
+    },
+    {
+      "id": "mmrrso886hj",
+      "code": "CTA 04",
+      "name": "CTA 04",
+      "desc": "CTA-1400-2774x712x1554",
+      "price": 55659.86,
+      "brand": "Systemair Branded",
+      "cat": "CTA",
+      "supplierCode": "CTA 04",
+      "buyPrice": 44706.79
+    },
+    {
+      "id": "mmrrso882o3",
+      "code": "CTA 05",
+      "name": "CTA 05",
+      "desc": "CTA-2560-3080x1018x1554",
+      "price": 57424.43,
+      "brand": "Systemair Branded",
+      "cat": "CTA",
+      "supplierCode": "CTA 05",
+      "buyPrice": 54674.67
+    },
+    {
+      "id": "mmrrso88ajw",
+      "code": "CTA 06",
+      "name": "CTA 06",
+      "desc": "CTA-1500-2774x712x1554",
+      "price": 53525.47,
+      "brand": "Systemair Branded",
+      "cat": "CTA",
+      "supplierCode": "CTA 06",
+      "buyPrice": 44751.63
+    },
+    {
+      "id": "mmrrso88vhs",
+      "code": "CTA 07",
+      "name": "CTA 07",
+      "desc": "CTA-600-1856x712x842",
+      "price": 44991.79,
+      "brand": "Systemair Branded",
+      "cat": "CTA",
+      "supplierCode": "CTA 07",
+      "buyPrice": 18797.37
+    },
+    {
+      "id": "mmrrso88j1i",
+      "code": "ACD-2DH-6A",
+      "name": "ACD-2DH-6A",
+      "desc": "Coffret de relayage ACD 2DH 6A",
+      "price": 370.22,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso884c1",
+      "code": "ACD-2DH-25.4A",
+      "name": "ACD-2DH-25.4A",
+      "desc": "Coffret de relayage ACD 2DH 25,4A",
+      "price": 613.6,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso88bt8",
+      "code": "ACD-2DH-43.3A",
+      "name": "ACD-2DH-43.3A",
+      "desc": "Coffret de relayage ACD 2DH 43,3A",
+      "price": 663.2,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso88x0w",
+      "code": "ACD-1V-6A",
+      "name": "ACD-1V-6A",
+      "desc": "Coffret de relayage ACD 1V 6A",
+      "price": 201.88,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso882wp",
+      "code": "ACD-1V-16.7A",
+      "name": "ACD-1V-16.7A",
+      "desc": "Coffret de relayage ACD 1V 16,7A",
+      "price": 221.7,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso884k9",
+      "code": "ACD-1V-25.4A",
+      "name": "ACD-1V-25.4A",
+      "desc": "Coffret de relayage ACD 1V 25,4A",
+      "price": 292.64,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso88p6m",
+      "code": "ACD-2DH-16.7A",
+      "name": "ACD-2DH-16.7A",
+      "desc": "Coffret de relayage ACD 2DH 16,7A",
+      "price": 403.59,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "mmrrso88upi",
+      "code": "ACD-2DH-63.3A",
+      "name": "ACD-2DH-63.3A",
+      "desc": "Coffret de relayage ACD 2DH 63,3A",
+      "price": 867.79,
+      "brand": "ARCOM",
+      "cat": "Électrique"
+    },
+    {
+      "id": "prod_kvd1010m6",
+      "code": "KVD 10/10 M6",
+      "name": "KVD 10/10 M6",
+      "desc": "",
+      "price": 3137.2,
+      "buyPrice": 2852.0,
+      "brand": "Systemair Branded",
+      "cat": "Ventilation",
+      "supplierCode": "BOX DD 9-9 III 450W-4P",
+      "supplierCodes": [
+        "BOX DD 9-9 III 450W-4P"
+      ]
+    },
+    {
+      "id": "prod_scroll_422535",
+      "code": "422535",
+      "name": "SCROLL AIR COOLED H.P 80HW-V45",
+      "desc": "PAC 70KW — Pompe à chaleur air/eau",
+      "price": 254631.0,
+      "buyPrice": 164835.0,
+      "brand": "Systemair Branded",
+      "cat": "PAC",
+      "supplierCode": "MPACR1",
+      "supplierCodes": [
+        "MPACR1",
+        "PAC 70KW",
+        "SCROLL AIR COOLED H.P 80HW-V45"
+      ]
+    },
+    {
+      "id": "prod_kvd77_40w",
+      "code": "KVD 7/7 M4 40W",
+      "name": "KVD 7/7 M4 40W-4P",
+      "desc": "Ventilateur caisson 7/7 40W 4 pôles",
+      "price": 0,
+      "buyPrice": 1770.0,
+      "brand": "TERMOFAN",
+      "cat": "KVD",
+      "supplierCode": "BOX FAN 7-7 III 40W-4P",
+      "supplierCodes": [
+        "BOX FAN 7-7 III 40W-4P",
+        "BOX DD 7-7 III 40W-4P",
+        "PFBF1-40W"
+      ]
+    }
+  ],
+  "settings": {
+    "company": "LCDV",
+    "tagline": "CAPDEVILA HVAC",
+    "ice": "003642309000040",
+    "if": "66221862",
+    "rc": "662681",
+    "siren": "32107176",
+    "address": "29 Rue Med El Baamrani, Rés. Sara 2, ETG 2 App 206 Derb Omar - 20000 Casablanca - Morocco",
+    "phone": "",
+    "email": "juan.perez@cap-devilla.com",
+    "web": "",
+    "vat": 20,
+    "currency": "DH",
+    "bank": "Attijariwafa Bank",
+    "rib": "007 330 00 07721000000436 06",
+    "swift": "",
+    "juridique": "SARL AU",
+    "capital": "100 000",
+    "patente": "",
+    "banks": [
+      {
+        "id": "mms14twqmsl",
+        "name": "Attijariwafa Bank",
+        "rib": "007 330 00 07721000000436 06",
+        "swift": "",
+        "default": true
+      }
+    ],
+    "addressDelivery": ""
+  },
+  "counters": {
+    "inv": 4,
+    "cn": 0,
+    "bl": 4,
+    "bc": 7,
+    "cc": 5,
+    "inv_25": 4,
+    "bl_25": 4,
+    "bl_26": 0,
+    "bc_25": 4,
+    "cc_25": 2,
+    "cc_26": 6,
+    "inv_26": 0,
+    "bc_26": 4
+  },
+  "signatures": {
+    "df": null,
+    "fact": null,
+    "achat": null
+  }
+}
